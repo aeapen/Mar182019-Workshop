@@ -1,2 +1,4 @@
+
 Day 1 Introdution to bash and git version control
 Dayu 2 Introduction to HPC
+Day 3: Scientific visualization
