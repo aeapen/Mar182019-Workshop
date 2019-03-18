@@ -1,1 +1,2 @@
 Day 1 Introdution to bash and git version control
+Dayu 2 Introduction to HPC
